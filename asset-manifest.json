@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/usestate-vs-usereducer/static/css/main.23d5776f.chunk.css",
+    "main.js": "/usestate-vs-usereducer/static/js/main.30fc8fd7.chunk.js",
+    "main.js.map": "/usestate-vs-usereducer/static/js/main.30fc8fd7.chunk.js.map",
+    "runtime-main.js": "/usestate-vs-usereducer/static/js/runtime-main.102619ee.js",
+    "runtime-main.js.map": "/usestate-vs-usereducer/static/js/runtime-main.102619ee.js.map",
+    "static/js/2.f53cb198.chunk.js": "/usestate-vs-usereducer/static/js/2.f53cb198.chunk.js",
+    "static/js/2.f53cb198.chunk.js.map": "/usestate-vs-usereducer/static/js/2.f53cb198.chunk.js.map",
+    "index.html": "/usestate-vs-usereducer/index.html",
+    "precache-manifest.abb2df4725a556fd95325c042fb2d9a6.js": "/usestate-vs-usereducer/precache-manifest.abb2df4725a556fd95325c042fb2d9a6.js",
+    "service-worker.js": "/usestate-vs-usereducer/service-worker.js",
+    "static/css/main.23d5776f.chunk.css.map": "/usestate-vs-usereducer/static/css/main.23d5776f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.102619ee.js",
+    "static/js/2.f53cb198.chunk.js",
+    "static/css/main.23d5776f.chunk.css",
+    "static/js/main.30fc8fd7.chunk.js"
+  ]
+}
